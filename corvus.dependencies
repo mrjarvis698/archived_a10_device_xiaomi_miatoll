@@ -1,0 +1,38 @@
+[
+  {
+    "repository": "MrJarvis698/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom-caf/sm8150/audio",
+    "branch": "arrow-11.0-caf-sm8150",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/platform_hardware_qcom_display",
+    "target_path": "hardware/qcom-caf/sm8150/display",
+    "branch": "11-caf-sm8150",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/android_hardware_qcom_media",
+    "target_path": "hardware/qcom-caf/sm8150/media",
+    "branch": "arrow-11.0-caf-sm8150",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/device_xiaomi_sm7125-common",
+    "target_path": "device/xiaomi/sm67125-common",
+    "branch": "11",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/android_kernel_xiaomi_sm7125",
+    "target_path": "kernel/xiaomi/sm7125",
+    "branch": "etherious",
+    "remote": "github"
+  },
+  {
+    "repository": "MrJarvis698/vendor_xiaomi_sm7125",
+    "target_path": "vendor/xiaomi",
+    "branch": "11",
+    "remote": "github"
+  },
+]
